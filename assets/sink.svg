@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="250 245 810 825" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">sink</title>
+  <desc id="description">Three little ASCII-inspired fish, rising bubbles, and curved aquatic plants.</desc>
+
+  <g stroke-linecap="round" stroke-linejoin="round" stroke-width="25">
+    <g stroke="#70dfbc">
+      <path d="M490 421 550 476 490 530" />
+      <path d="M644 420 580 476 644 533" />
+      <path d="M691 421 755 477 691 533" />
+    </g>
+    <g stroke="#04bac2">
+      <path d="M314 607 375 662 313 716" />
+      <path d="M471 606 405 662 471 719" />
+      <path d="M517 606 582 662 517 719" />
+    </g>
+    <g stroke="#8ccbff">
+      <path d="M646 731 707 786 646 840" />
+      <path d="M804 730 739 786 804 844" />
+      <path d="M850 731 914 786 850 844" />
+    </g>
+  </g>
+
+  <g>
+    <circle cx="685" cy="477" r="10" fill="#70dfbc" />
+    <circle cx="511" cy="662" r="10" fill="#04bac2" />
+    <circle cx="840" cy="786" r="10" fill="#8ccbff" />
+  </g>
+
+  <g stroke-linecap="round">
+    <circle cx="800" cy="450" r="8" fill="#9bdedb" />
+    <circle cx="850" cy="400" r="22" stroke="#9bdedb" stroke-width="12" />
+    <circle cx="920" cy="331" r="32" stroke="#a4d8ff" stroke-width="14" />
+    <circle cx="864" cy="680" r="8" fill="#a4d8ff" />
+    <circle cx="898" cy="638" r="17" stroke="#9bdedb" stroke-width="12" />
+    <circle cx="954" cy="568" r="25" stroke="#a4d8ff" stroke-width="14" />
+  </g>
+
+  <g stroke-width="23" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M346 1008 C328 978 334 947 353 919 C364 898 360 881 349 874" stroke="#008f85" />
+    <path d="M390 1007 C401 980 401 952 388 925 C375 898 394 877 401 852 C405 836 398 824 391 818" stroke="#04bf78" />
+    <path d="M434 1007 C415 980 413 948 436 918" stroke="#04bf78" />
+    <path d="M879 1008 C898 980 898 950 880 916" stroke="#008f85" />
+    <path d="M930 1008 C942 976 934 954 932 928 C929 898 952 878 940 857" stroke="#04bf78" />
+    <path d="M514 970 C572 1000 608 950 667 969 C712 990 754 982 800 966" stroke="#008f85" stroke-width="20" />
+  </g>
+
+  <g fill="#009589">
+    <circle cx="510" cy="1016" r="8" />
+    <circle cx="610" cy="1016" r="8" />
+    <circle cx="700" cy="1016" r="8" />
+    <circle cx="805" cy="1016" r="8" />
+  </g>
+</svg>
